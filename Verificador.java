@@ -1,11 +1,7 @@
 package practica01;
 public class Verificador {
 	static boolean esSobrePos(Rectangulo r1, Rectangulo r2){
-		//VARIABLES PARA ORDENAR LAS COORDENADAS DE LOS RECTANGULOS
-		// X1=x11		Y1=y11
-		// X2=x12		Y1=y12
-		// X3=x21		Y1=y21
-		// X4=x22		Y1=y22
+			
 		double x11,x12,x21,x22,
 				y11,y12,y21,y22;
 		//ORDENAMOS COORDENADAS X1
